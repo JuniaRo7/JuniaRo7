@@ -1,6 +1,4 @@
-### Hi guys, I'm Júnia👋
-
- I'm learning Java, JavaScript, HTML and CSS...
+### Olá!
 <div align="center">
   <a href="https://github.com/JuniaRo7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniaRo7&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
