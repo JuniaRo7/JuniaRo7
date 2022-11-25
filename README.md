@@ -9,7 +9,7 @@
  
 <div> 
   <img  align="right" alt="Jovs-pic" style="border-radius:50px;" src="https://i.picasion.com/pic92/50a4f306083856169ec412f598eee1f5.gif" width="300" height="300" border="0">
-  <a href="https://instagram.com/ju_rfreire" target="_blank"><img height="30em"src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png"></a>
+  <a href="https://instagram.com/juniafreire_70" target="_blank"><img height="30em"src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png"></a>
   <a href = "mailto:juniafreire2004@gmail.com"><img height="30em" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" target="_blank"></a> 
 </div>
   
