@@ -1,6 +1,8 @@
 ### Olá!
-Meu nome é Júnia, 
-Espero usar o Git mais vezes
+
+Meu nome é Júnia!
+
+Espero usar o Git mais vezes.
 
 <div align="center">
   <a href="https://github.com/JuniaRo7">
