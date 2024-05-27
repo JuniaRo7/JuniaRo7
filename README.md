@@ -1,7 +1,5 @@
-### Olá!
-
-Meu nome é Júnia!
-
+### Hello!
+Tô fazendo arquitetura mas não largo de informática. 
 Espero usar o Git mais vezes.
 
 <div align="center">
